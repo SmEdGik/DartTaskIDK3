@@ -2,7 +2,7 @@
 
 # Dart_gaga
 ```dart 
-[05.05.2026 23:26] Zex: import 'dart:math';
+import 'dart:math';
 import 'package:flutter/material.dart';
 
 abstract class Shape {
